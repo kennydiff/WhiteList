@@ -5,6 +5,7 @@
 
 ||*
 
+@@amgx.org
 @@163.com
 @@1688.com
 @@1905.com
@@ -121,8 +122,6 @@
 @@gearbest.com
 @@gfycat.com
 @@giphy.com
-@@github.com
-@@github.io
 @@gizmodo.com
 @@globo.com
 @@gmx.net

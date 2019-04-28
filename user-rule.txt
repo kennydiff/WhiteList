@@ -35,7 +35,6 @@
 @@amazon.fr
 @@amazon.in
 @@amazon.it
-@@amazonaws.com
 @@ameblo.jp
 @@americanexpress.com
 @@aol.com

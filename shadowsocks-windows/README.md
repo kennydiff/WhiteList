@@ -45,3 +45,5 @@
 ## 疑难解答
 
 若自动下载 APNIC 的 IP 分配文件很慢，可自行用科学办法下载 <http://ftp.apnic.net/apnic/stats/apnic/delegated-apnic-latest> 后，用 `--ip-file` 参数指定下载好的文件。同理 gfwlist 从 <https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt> 下载后用 `-i` 参数指定。
+
+original prj : https://github.com/zhiyi7/gfw-pac
